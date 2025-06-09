@@ -16,7 +16,7 @@ A data analysis project examining global coffee consumption patterns from 1990-2
 - Growth analysis
 
 ## Live Demo
-- **Preswald App:** [Coming soon]
+- **Preswald App:** https://preswald.com/org/linda-miao-data-projects-coffee-analytics/p435952ec 
 - **GitHub Repository:** https://github.com/Linda-Miao/coding-assessment-practice
 
 ## Technologies Used
